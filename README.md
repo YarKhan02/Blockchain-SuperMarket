@@ -7,10 +7,6 @@ This repository contains an object-oriented programming (OOP) project that demon
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
