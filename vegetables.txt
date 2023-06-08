@@ -1,0 +1,5 @@
+Tomato 192 15
+Onion 6 8
+Mint 23 1
+Carrot 111 5
+Potato 61 7

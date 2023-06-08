@@ -1,0 +1,5 @@
+Apple 132 12
+Mango 350 20
+Grapes 77 5
+Melon 4 10
+Apricot 29 8
